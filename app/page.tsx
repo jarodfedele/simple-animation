@@ -1,6 +1,6 @@
 export default function HomePage() {
   return (
-    <main className="relative h-full w-full overflow-hidden bg-white">
+    <main className="animation-stage">
       <span aria-hidden="true" className="circle" />
     </main>
   );
