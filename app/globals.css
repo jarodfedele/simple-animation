@@ -34,7 +34,7 @@ body {
   height: var(--circle-size);
   border-radius: 50%;
   background: #1266d3;
-  animation: circle-motion 2s cubic-bezier(0.3628, 0.10044, 0.6372, 0.89956)
+  animation: circle-motion 5s cubic-bezier(0.3628, 0.10044, 0.6372, 0.89956)
     infinite alternate;
   will-change: transform;
 }
